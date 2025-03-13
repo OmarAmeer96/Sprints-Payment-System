@@ -9,11 +9,12 @@ A Flutter project demonstrating a payment task implementation with modern Flutte
 - 📱 Modern Material 3 design
 - 🚦 Loading states management
 
-## Project Structure
-
 ## Screenshot
 
-![App Screenshot](screenshot.png)
+<img src="https://github.com/user-attachments/assets/86fe12e8-a799-4c06-a58a-a8d6ffe4fec8" alt="App Screenshot" width="300"/>
+
+
+## Project Structure
 
 ```
 lib/
